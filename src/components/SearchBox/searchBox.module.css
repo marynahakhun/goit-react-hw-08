@@ -1,0 +1,11 @@
+.text {
+    text-align: left;
+    font-weight: 500;
+}
+.form{
+    border: none;
+}
+.input {
+ 
+    width: 275px
+}
